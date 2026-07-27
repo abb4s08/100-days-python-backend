@@ -4,4 +4,3 @@ if num1%num2==0:
     print("Divisible")
 else:
     print("Not Divisible")  
-     
